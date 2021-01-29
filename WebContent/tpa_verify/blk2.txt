@@ -1,0 +1,36 @@
+ut of a web page. Web browsers are used to view HTML documents. Two popular web browsers are the Netscape Navigator 4.x and the Microsoft Internet Explorer 5.x. Browsers control the layout of a web page
+
+JavaScript:
+
+JavaScript enables you to embed commands in an HTML page. JavaScript is powerful and simple. HTML provides a good deal of flexibility to page authors, but HTML by itself is static; after being written, HTML documents can?t interact with the user other than by presenting hyperlinks. Scripting languages act as the glue that binds every thing together. JavaScript mainly provides a fairly complete set of built- in functions and commands, enabling you to perform math calculations, manipulates strings, play sounds, open new windows and new URLs, and access and verify input to your web forms.
+ 
+JavaScript can also set the attributes, or properties, of web page elements and other objects present in the browser.
+ 
+This way you can change the behavior of plugs?in or other objects without having to rewrite them. JavaScript commands 
+
+
+Macromedia Dreamweaver
+
+?	Macromedia Dreamweaver2.0  is one of the HTML Editor
+
+?	It also includes DHTML effects 
+
+?	It is used to connect the forms to Servlets
+
+?	It is used to Hyperlinks the web pages
+
+?	It is used to create Templates 
+
+?	It is used to attach Sound files and Animation files along with our Source.
+
+
+The Java Server Pages (JSP):
+
+
+Java Server Pages ? technology is the Java ? platform technology for building applications containing dynamic Web content such as HTML, DHTML, XHTML and XML. TheJavaServer Pages technology enables the authoring of Web pages that create dynamic content easily but with maximum power and flexibility.
+
+
+
+Advantages: 
+
+?	Wri

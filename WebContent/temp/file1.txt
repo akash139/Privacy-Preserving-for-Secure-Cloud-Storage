@@ -1,0 +1,18 @@
+THE JAVA 2 ENTERPRISE EDITION
+
+The Java 2 Platform, Enterprise Edition (J2EE), has rapidly established a new programming model for developing distributed applications. This model is based on well-defined components that can automatically take advantage of sophisticated platform services. These components can be developed according to standard guidelines, combined into applications, deployed on a variety of compatible server products, and reused for maximum programmer productivity. This model is intended to both standardize and simplify the kind of distributed applications required for today's networked information economy.
+
+
+J2EE Platform Benefits 
+
+ With features designed to expedite the process of developing distributed applications, the J2EE platform offers several benefits:
+•	Simplified architecture and development 
+•	Freedom of choice in servers, tools, and components 
+•	Integration with existing information systems 
+•	Scalability to meet demand variations 
+•	Flexible security model 
+
+
+HYPER TEXT MARKUP LANGUAGE
+ 				
+HTML was specifically developed to use along with the Hyper Text Transfer Protocol (HTTP) to encode documents for display on the World Wide Web.HTML is defined in the HTML Standard, currently Version 4.0x. HTML standards are recommended by the World Wide Web Consortium,   W3C.  W3C also oversees the standardization of technologies related to the World Wide Web and publishes the HTTP (Hypertext Transfer Protocol) standards. HTML is initials for Hyper Text Markup Language. HTML is pronounced one letter at a time as if you are spelling the word HTML. It is not pronounced as "hit mill" and it is NOT a programming language. HTML cannot be used to write programs and it cannot control the precise layo

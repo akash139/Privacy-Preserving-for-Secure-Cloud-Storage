@@ -1,0 +1,7 @@
+nternal
+and/or external cloud services together to provide
+high interoperability. We call such a distributed
+cloud environment as a multi-Cloud (or hybrid cloud).
+Often, by using virtual infrastructure management
+(VIM) [1], a multi-cloud allows clients to easily access
+his/her resources remotely through interfac

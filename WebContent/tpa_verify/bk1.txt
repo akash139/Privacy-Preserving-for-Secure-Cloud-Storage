@@ -1,0 +1,28 @@
+and availability of stored data for detecting faults
+and automatic recovery. Moreover, this verification
+is necessary to provide reliability by automatically
+maintaining multiple copies of data and automatically
+redeploying processing logic in the event of failures.
+Although existing schemes can make a false or true
+decision for data possession without downloading
+data at untrusted stores, they are not suitable for
+a distributed cloud storage environment since they
+were not originally constructed on interactive proof
+system. For example, the schemes based on Merkle
+Hash tree (MHT), such as DPDP-I, DPDP-II [2] and
+SPDP [4] in Table 1, use an authenticated skip list to
+check the integrity of file blocks adjacently in space.
+Unfortunately, they did not provide any algorithms
+for constructing distributed Merkle trees that are
+necessary for efficient verification in a multi-cloud
+environment. In addition, when a client asks for a file
+block, the server needs to send the file block along
+with a proof for the intactness of the block. However,
+this process incurs significant communication overhead
+in a multi-cloud environment, since the server
+in one cloud typically needs to generate such a proof
+with the help of other cloud storage services, where
+the adjacent blocks are stored. The other schemes,
+such as PDP [2], CPOR-I, and CPOR-II [6] in Table
+1, are constructed on homomorphic verification tags,
+by which the serve

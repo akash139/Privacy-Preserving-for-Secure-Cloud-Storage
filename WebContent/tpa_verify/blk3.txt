@@ -1,0 +1,30 @@
+te Once, Run Anywhere ? properties
+?	High quality tool support
+?	Reuse of components and tag libraries
+?	Separation of dynamic and static content
+?	Support for scripting and actions
+?	Web access layer for N-tier enterprise application architecture(s)
+
+
+
+
+
+JSP page:
+
+A JSP page is a text-based document that describes how to process a request to create a response. The description intermixes template data with some dynamic actions and leverages on the Java Platform.The features in the JSP technology support a number of different paradigms for authoring of dynamic content. JSP pages can be used in combination with Servlets, HTTP, HTML, XML, Applets, JavaBeans components and Enterprise JavaBeans components to implement a broad variety of application architecture(s) or models.
+
+?	Maximum performance and scalability through its unique design with the Window?s multi-threaded architecture.
+?	Central and easy-to-use the Graphical User Interface (GUI).
+?	Automatic authentication of users by the Operating System.
+
+ENTERPRISE JAVABEAN (EJB):
+
+	EJB is a standard server side component model for component transaction monitors. It automatically takes in to account many of the requirements of business systems-security, resourse pooling,persistence, concurrency and transasction integrity.
+
+	
+Overall goals
+
+      The Enterprise JavaBeans (EJB) architecture has the following goals:
+
+?	The Enterprise JavaBeans architecture will be the standard component architecture for building distributed object-oriented business applications in the Java programming language. The Enterprise JavaBeans architecture will make it possible to build distributed applications by combining components developed using tools from different vendors. >>>>>>>***********>>>>>>
+

@@ -1,0 +1,30 @@
+rgery Attack by which a
+dishonest CSP can deceive the clients (see Attacks 2
+and 4 in Appendix A). These two attacks may cause
+potential risks for privacy leakage and ownership
+cheating. Also, these attacks can more easily compromise
+the security of a distributed cloud system than
+that of a single cloud system.
+Although various security models have been proposed
+for existing PDP schemes [2], [7], [6], these
+models still cannot cover all security requirements,
+especially for provable secure privacy preservation
+and ownership authentication. To establish a highly
+effective security model, it is necessary to analyze the
+PDP scheme within the framework of zero-knowledge
+proof system (ZKPS) due to the reason that PDP
+system is essentially an interactive proof system (IPS),
+which has been well studied in the cryptography community.
+In summary, a verification scheme for data
+integrity in distributed storage environments should
+have the following features:
+? Usability aspect: A client should utilize the
+integrity check in the way of collaboration services.
+The scheme should conceal the details of the storage
+to reduce the burden on clients;
+? Security aspect: The scheme should provide adequate
+security features to resist some existing attacks,
+such as data leakage attack and tag forgery attack;
+? Performance aspect: The scheme should have
+the lower communication and computation overheads
+than non-cooperative solution.

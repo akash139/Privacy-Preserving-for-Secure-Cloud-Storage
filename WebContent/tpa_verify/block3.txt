@@ -1,0 +1,7 @@
+es such as
+Web services provided by Amazon EC2.
+There exist various tools and technologies for multicloud,
+such as Platform VM Orchestrator, VMware
+vSphere, and Ovirt. These tools help cloud providers
+construct a distributed cloud storage platform (DCSP)
+for managing clients’ data. However, if such an important

@@ -1,0 +1,29 @@
+r can generate tags for multiple file
+blocks in terms of a single response value. However,
+that doesn?t mean the responses from multiple clouds
+can be also combined into a single value on the
+client side. For lack of homomorphic responses, clients
+must invoke the PDP protocol repeatedly to check
+the integrity of file blocks stored in multiple cloud
+servers. Also, clients need to know the exact position
+of each file block in a multi-cloud environment. In
+addition, the verification process in such a case will
+lead to high communication overheads and computation
+costs at client sides as well. Therefore, it is of
+utmost necessary to design a cooperative PDP model
+to reduce the storage and network overheads and
+enhance the transparency of verification activities in
+cluster-based cloud storage systems. Moreover, such a
+cooperative PDP scheme should provide features for
+timely detecting abnormality and renewing multiple
+copies of data.
+Even though existing PDP schemes have addressed
+various security properties, such as public verifiability
+[2], dynamics [5], scalability [4], and privacy
+preservation [7], we still need a careful consideration
+of some potential attacks, including two major categories:
+Data Leakage Attack by which an adversary
+can easily obtain the stored data through verification
+process after running or wiretapping sufficient
+verification communications (see Attacks 1 and 3 in
+Appendix A), and Tag Fo

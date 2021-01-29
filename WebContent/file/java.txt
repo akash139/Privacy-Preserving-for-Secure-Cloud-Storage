@@ -1,0 +1,82 @@
+THE JAVA 2 ENTERPRISE EDITION
+
+The Java 2 Platform, Enterprise Edition (J2EE), has rapidly established a new programming model for developing distributed applications. This model is based on well-defined components that can automatically take advantage of sophisticated platform services. These components can be developed according to standard guidelines, combined into applications, deployed on a variety of compatible server products, and reused for maximum programmer productivity. This model is intended to both standardize and simplify the kind of distributed applications required for today's networked information economy.
+
+
+J2EE Platform Benefits 
+
+ With features designed to expedite the process of developing distributed applications, the J2EE platform offers several benefits:
+•	Simplified architecture and development 
+•	Freedom of choice in servers, tools, and components 
+•	Integration with existing information systems 
+•	Scalability to meet demand variations 
+•	Flexible security model 
+
+
+HYPER TEXT MARKUP LANGUAGE
+ 				
+HTML was specifically developed to use along with the Hyper Text Transfer Protocol (HTTP) to encode documents for display on the World Wide Web.HTML is defined in the HTML Standard, currently Version 4.0x. HTML standards are recommended by the World Wide Web Consortium,   W3C.  W3C also oversees the standardization of technologies related to the World Wide Web and publishes the HTTP (Hypertext Transfer Protocol) standards. HTML is initials for Hyper Text Markup Language. HTML is pronounced one letter at a time as if you are spelling the word HTML. It is not pronounced as "hit mill" and it is NOT a programming language. HTML cannot be used to write programs and it cannot control the precise layout of a web page. Web browsers are used to view HTML documents. Two popular web browsers are the Netscape Navigator 4.x and the Microsoft Internet Explorer 5.x. Browsers control the layout of a web page
+
+JavaScript:
+
+JavaScript enables you to embed commands in an HTML page. JavaScript is powerful and simple. HTML provides a good deal of flexibility to page authors, but HTML by itself is static; after being written, HTML documents can’t interact with the user other than by presenting hyperlinks. Scripting languages act as the glue that binds every thing together. JavaScript mainly provides a fairly complete set of built- in functions and commands, enabling you to perform math calculations, manipulates strings, play sounds, open new windows and new URLs, and access and verify input to your web forms.
+ 
+JavaScript can also set the attributes, or properties, of web page elements and other objects present in the browser.
+ 
+This way you can change the behavior of plugs–in or other objects without having to rewrite them. JavaScript commands 
+
+
+Macromedia Dreamweaver
+
+?	Macromedia Dreamweaver2.0  is one of the HTML Editor
+
+?	It also includes DHTML effects 
+
+?	It is used to connect the forms to Servlets
+
+?	It is used to Hyperlinks the web pages
+
+?	It is used to create Templates 
+
+?	It is used to attach Sound files and Animation files along with our Source.
+
+
+The Java Server Pages (JSP):
+
+
+Java Server Pages ™ technology is the Java ™ platform technology for building applications containing dynamic Web content such as HTML, DHTML, XHTML and XML. TheJavaServer Pages technology enables the authoring of Web pages that create dynamic content easily but with maximum power and flexibility.
+
+
+
+Advantages: 
+
+•	Write Once, Run Anywhere ™ properties
+•	High quality tool support
+•	Reuse of components and tag libraries
+•	Separation of dynamic and static content
+•	Support for scripting and actions
+•	Web access layer for N-tier enterprise application architecture(s)
+
+
+
+
+
+JSP page:
+
+A JSP page is a text-based document that describes how to process a request to create a response. The description intermixes template data with some dynamic actions and leverages on the Java Platform.The features in the JSP technology support a number of different paradigms for authoring of dynamic content. JSP pages can be used in combination with Servlets, HTTP, HTML, XML, Applets, JavaBeans components and Enterprise JavaBeans components to implement a broad variety of application architecture(s) or models.
+
+?	Maximum performance and scalability through its unique design with the Window’s multi-threaded architecture.
+?	Central and easy-to-use the Graphical User Interface (GUI).
+?	Automatic authentication of users by the Operating System.
+
+ENTERPRISE JAVABEAN (EJB):
+
+	EJB is a standard server side component model for component transaction monitors. It automatically takes in to account many of the requirements of business systems-security, resourse pooling,persistence, concurrency and transasction integrity.
+
+	
+Overall goals
+
+      The Enterprise JavaBeans (EJB) architecture has the following goals:
+
+?	The Enterprise JavaBeans architecture will be the standard component architecture for building distributed object-oriented business applications in the Java programming language. The Enterprise JavaBeans architecture will make it possible to build distributed applications by combining components developed using tools from different vendors.
+

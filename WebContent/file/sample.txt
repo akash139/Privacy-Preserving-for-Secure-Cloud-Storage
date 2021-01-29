@@ -1,0 +1,18 @@
+IN recent years, cloud storage service has become a
+faster profit growth point by providing a comparably
+low-cost, scalable, position-independent platform
+for clients’ data. Since cloud computing environment
+is constructed based on open architectures and interfaces,
+it has the capability to incorporate multiple internal
+and/or external cloud services together to provide
+high interoperability. We call such a distributed
+cloud environment as a multi-Cloud (or hybrid cloud).
+Often, by using virtual infrastructure management
+(VIM) [1], a multi-cloud allows clients to easily access
+his/her resources remotely through interfaces such as
+Web services provided by Amazon EC2.
+There exist various tools and technologies for multicloud,
+such as Platform VM Orchestrator, VMware
+vSphere, and Ovirt. These tools help cloud providers
+construct a distributed cloud storage platform (DCSP)
+for managing clients’ data. However, if such an important

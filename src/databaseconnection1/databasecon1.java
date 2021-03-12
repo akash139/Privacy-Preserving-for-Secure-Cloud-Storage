@@ -15,6 +15,5 @@ public class databasecon1 {
 			System.out.println("multi-cloud database error:"+e);
 		}
 		return con;
-		
-}	
+		}	
 }

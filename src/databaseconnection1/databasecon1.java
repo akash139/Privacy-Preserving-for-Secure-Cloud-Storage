@@ -16,7 +16,6 @@ public class databasecon1 {
 		}
 		return con;
 		
-}
-	
+}	
 	
 }
